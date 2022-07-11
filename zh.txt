@@ -1,4 +1,4 @@
-ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ@185.246.155.46:9006/#github.com%2Ffreefq%20-%20%E8%8D%B7%E5%85%B0%20%2035
-ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ@185.246.155.23:9038/#github.com%2Ffreefq%20-%20%E8%8D%B7%E5%85%B0%20%2044
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@217.138.193.6:812/#github.com%2Ffreefq%20-%20%E8%8B%B1%E5%9B%BD%20%2060
 ssr://c3NyZnJlZTEyLmZyZWU0NDQ0Lnh5ejo0NDM6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdXRoOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnByb3RvcGFyYW09WVhWMGFGOWphR0ZwYmw5aCZyZW1hcmtzPWQzZDNMbVJ2Ym1kMFlXbDNZVzVuTG1OdmJlV0ZqZWkwdVhOemN1aUtndWVDdVE9PQ== # 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbHRyQHIwMHRfMjAxNw==@161.35.69.20:811#美国(油管:破解资源君2.0) 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbHRyQHIwMHRfMjAxNw==@138.68.248.130:811#美国(油管:破解资源君2.0) 
+vless://6af54f19-9168-4ca5-b042-5b354048faf3@xiaocaitou.eu.org:443?flow=&encryption=none&security=tls&sni=xiaocaitou.eu.org&type=ws&host=&path=/1dbd5a5314/&headerType=none#美国(油管:破解资源君2.0) 
